@@ -1,4 +1,4 @@
-[![xx](https://img.shields.io/badge/WLH-502-github-blue?logo=github)](https://github.com/WLH-502)
+[![xx](https://img.shields.io/badge/xx-github-blue?logo=github)](https://github.com/WLH-502)
 
 I'm currently pursuing a bachelor's degree in Wuhan at the Department of Naval Architecture and Ocean Engineering, HUST.
 
