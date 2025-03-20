@@ -3,8 +3,8 @@
 I'm currently pursuing a bachelor's degree in Wuhan at the Department of Naval Architecture and Ocean Engineering, HUST.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2778427351@qq.com</code>  
+<code>17307232668@163.com</code>
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
